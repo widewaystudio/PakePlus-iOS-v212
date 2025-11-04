@@ -171,16 +171,4 @@ pnpm run build
 
 ```
 
-## Support
 
-1. wechat and group，my wechat is lanxingme，welcome to join the wechat group.
- <p align="center" style="display:flex; justify-content: flex-start;" >
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/qq.jpg" width=200/>
- </p>
-
-2. 💖If PakePlus has brought joy to your life, feel free to support it.
- <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
- </p>
